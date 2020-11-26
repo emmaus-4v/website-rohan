@@ -3,12 +3,16 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color:rgb(102,205,170);
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
 }
 
+#energiebronnen {
+    float: center;
+    width: 100% ;
+    }
 
 main {
     margin: 0 auto;
@@ -23,7 +27,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color:rgb(85,107,47);
     text-align: center;
 }
 
