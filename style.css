@@ -19,10 +19,20 @@ html, body {
     height: 20%;
     }
 
+.plaatjesrechts {
+    float: right;
+    width: 35%;
+
+}    
+
 .kopjes {
 
     color:rgb(2, 61, 7)
 }    
+
+.tekst {
+    
+}
 
 main {
     margin: 0 auto;
