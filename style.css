@@ -8,7 +8,7 @@
 
 }
 
-#fadein {
+.fadein {
     animation: fadeIn 5s; 
 }
 
@@ -35,13 +35,14 @@ html, body {
     float: right;
     width: 25%;
     margin-bottom: 5%;
-    margin-right:10%;
+    margin-left:15px;
 
 }    
 #plaatjezon {
     margin-bottom: 30px;
     float:right;
     width: 25%;
+    margin-left: 15px;
 }
 
 
