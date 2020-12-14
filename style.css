@@ -1,5 +1,17 @@
 /* Basislayout */
 
+@keyframes fadeIn {
+    0% {opacity: 0;}
+
+100% {opacity: 1;
+}
+
+}
+
+#fadein {
+    animation: fadeIn 5s; 
+}
+
 html, body {
     height: 100%;
     padding: 0;
@@ -21,9 +33,17 @@ html, body {
 
 .plaatjesrechts {
     float: right;
-    width: 35%;
+    width: 25%;
+    margin-bottom: 5%;
+    margin-right:10%;
 
 }    
+#plaatjezon {
+    margin-bottom: 30px;
+    float:right;
+    width: 25%;
+}
+
 
 .kopjes {
 
